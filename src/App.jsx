@@ -9,7 +9,7 @@ import Programs from "./pages/programs/Program";
 
 const App = () => {
   return ( 
-    <div>
+    <div className="app">
       <Router basename="/Blizzcode-2">
         <Routes>
           <Route path="/" element={<HomePage />} />
