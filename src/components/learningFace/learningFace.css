@@ -146,6 +146,9 @@ h3:hover{
 }
 
 @media (min-width: 708px)and (max-width: 832px) {
+    .body{
+        margin: 0 auto;
+    }
     .one-1-1{
         position: absolute;
         top: 5px;
