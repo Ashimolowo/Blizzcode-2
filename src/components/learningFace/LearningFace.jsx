@@ -33,4 +33,3 @@ const LearningFace = () => {
 }
  
 export default LearningFace;
-
